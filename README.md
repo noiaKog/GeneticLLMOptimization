@@ -1,5 +1,4 @@
 # Genetic LLM Optimization Final Project 
-**created by Lina Golan, Reut Ben-Hamo Shefferman, Noia Kogman-Hassid, Anva Avraham**
 
 1. Under 'Data' :
    * raw files
