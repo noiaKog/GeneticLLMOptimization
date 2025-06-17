@@ -11,6 +11,7 @@ By comparing three tokenization strategies—BPE, WordPiece, and k-mer—across 
 * Can model performance improve by tailoring tokenization methods to the unique characteristics of each organism?
 
 Used XAI tools (e.g., SHAP) to interpret predictions, visualize attention, and discover meaningful genetic motifs.
+
 Additionally, the project investigates an evolution-aware approach, where organisms are grouped by genetic proximity to humans. The model is trained progressively to examine whether evolutionary relationships help enhance generalization.
 
 ## Files
